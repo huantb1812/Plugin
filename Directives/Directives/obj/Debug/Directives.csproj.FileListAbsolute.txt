@@ -1,0 +1,66 @@
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\ApplicationInsights.config
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\csc.exe
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\vbc.exe
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\VBCSCompiler.exe
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Directives.dll.config
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Directives.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Directives.pdb
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.Web.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.WindowsServer.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.ApplicationInsights.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.Web.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.AI.WindowsServer.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.ApplicationInsights.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\obj\Debug\Directives.csprojResolveAssemblyReference.cache
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\obj\Debug\Directives.dll
+c:\users\nguye\documents\visual studio 2015\Projects\Directives\Directives\obj\Debug\Directives.pdb
+D:\Plugin\Directives\Directives\bin\ApplicationInsights.config
+D:\Plugin\Directives\Directives\bin\roslyn\csc.exe
+D:\Plugin\Directives\Directives\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Plugin\Directives\Directives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Plugin\Directives\Directives\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Plugin\Directives\Directives\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Plugin\Directives\Directives\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Plugin\Directives\Directives\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Plugin\Directives\Directives\bin\roslyn\System.Collections.Immutable.dll
+D:\Plugin\Directives\Directives\bin\roslyn\System.Reflection.Metadata.dll
+D:\Plugin\Directives\Directives\bin\roslyn\vbc.exe
+D:\Plugin\Directives\Directives\bin\roslyn\VBCSCompiler.exe
+D:\Plugin\Directives\Directives\bin\roslyn\VBCSCompiler.exe.config
+D:\Plugin\Directives\Directives\bin\Directives.dll.config
+D:\Plugin\Directives\Directives\bin\Directives.dll
+D:\Plugin\Directives\Directives\bin\Directives.pdb
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.DependencyCollector.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.Web.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.WindowsServer.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.ApplicationInsights.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.DependencyCollector.xml
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.Web.xml
+D:\Plugin\Directives\Directives\bin\Microsoft.AI.WindowsServer.xml
+D:\Plugin\Directives\Directives\bin\Microsoft.ApplicationInsights.xml
+D:\Plugin\Directives\Directives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Plugin\Directives\Directives\obj\Debug\Directives.csprojResolveAssemblyReference.cache
+D:\Plugin\Directives\Directives\obj\Debug\Directives.dll
+D:\Plugin\Directives\Directives\obj\Debug\Directives.pdb
